@@ -1,0 +1,19 @@
+users:
+  - user1
+  - user2
+
+authors:
+  - author1
+  - author2
+
+mods:
+  - name: mod1
+    assigned_authors:
+      - author1
+      - author2
+  - name: mod2
+    assigned_authors:
+      - author2
+
+admins:
+  - admin1
