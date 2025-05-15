@@ -1,0 +1,6 @@
+subscriptions:
+  user1:
+    - authorA
+    - authorB
+  user2:
+    - authorC
